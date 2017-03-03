@@ -1,0 +1,5 @@
+Para configurar el correo en git
+git config --global user.email "youremail@example.com"
+
+Para configurar el nombre de usuario
+git config --global user.name "Your name"
